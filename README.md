@@ -7,13 +7,11 @@
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
+- The challenge is to build out this frontEnd mentor challenge and get it looking as close to the design as possible.
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://pashanext.github.io/four-card-feature-section-main/
 
 ### Built with
 
@@ -22,3 +20,5 @@ Users should be able to:
 - CSS Grid
 
 ### What I learned
+
+-This was my first using CSS grid layout learned some of the basics of it.
